@@ -4,6 +4,8 @@
 
 26.02.23 - 29.04.2023
 
+[Учебный макет](https://www.figma.com/file/u2zZr82dpFUTb8NJV0XgxH/Bro-Academy-Project-1.0?type=design&node-id=1%3A3504&mode=design&t=VhjDhTk0DJbfQGIp-1)
+
 - [Lesson 1](lesson-1.md)
 - [Lesson 2](lesson-2.md)
 - [Lesson 3](lesson-3.md)
