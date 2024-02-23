@@ -43,5 +43,4 @@
 https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui
 https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png
 
-[![image](https://github.com/broacademy/HTML-course/assets/142417980/01fd6c0e-e777-4785-84e5-b7c410ecc76d =300x200)](https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui)
-
+<a href="https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui"><img src="https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png" alt="image" width="300" height="auto"></a>
