@@ -1,7 +1,7 @@
 # Домашняя работа
 
 1. Пройти тренажер по emmet    
-   [Бесплатный курс по emmet. Getting started, Emment & HTML](https://www.udemy.com/course/emmet-start-coding-html-and-css-fast-and-easy/)    
+   [Бесплатный курс по emmet.](https://www.udemy.com/course/emmet-start-coding-html-and-css-fast-and-easy/) Getting started, Emment & HTML.    
    или    
    [Тренажер по emmet](https://github.com/kushedow/learnEmmet). Скачиваете архив, открываете файл index.html и выполняете задания  
    
@@ -27,13 +27,13 @@
 
 ## Дополнительно
 
-1. [Бесплатный курс. Основы современной верстки. Задания 1-24 и 32-41](https://code-basics.com/ru/languages/html)    
+1. [Бесплатный курс. Основы современной верстки.](https://code-basics.com/ru/languages/html) Задания 1-24 и 32-41.    
    или     
    [Бесплатный курс по html на английском](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/)   
    или    
-   [Основы современной верстки. Главы 1-5, 8-10, 12](https://ru.hexlet.io/courses/layout-designer-basics)    
+   [Основы современной верстки.](https://ru.hexlet.io/courses/layout-designer-basics) Главы 1-5, 8-10, 12.
    или    
-   [Курс по html на английском 1-5 модуль](https://www.scaler.com/topics/html/)   
+   [Курс по html на английском.](https://www.scaler.com/topics/html/) 1-5 модуль.
 
 2. [Тест по HTML](https://ru.w3docs.com/quiz-start/osnovy-html), советую его пройти после изучения дополнительных материалов и домашки. Результат только для вас, чтобы понять что может нужно еще посмотреть и подучить. 
 
@@ -48,3 +48,5 @@ https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0
 <img src="https://your-image-url.type" width="100" height="100">
 
 <img src="https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png" width="100" height="100">
+
+![alt|500](https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png)
