@@ -7,23 +7,23 @@
    
 2. [Подробная инструкция как создать и разметить страницу сайта](https://russmaxdesign.github.io/maxdesign-slides/01-html/106-creating-document.html) с повторением пройденного материала, на английском. В этом туториале шаг за шагом разбираются действия разметки. Вы можете выбрать любой текст, который вставите на ваш сайт. Ориентиром может быть ваше хобби – атомные реакторы подводных лодок, вымершие животные или феечки винкс. Делать можно в редакторе кода или в codepen. Цель – закрепить все шаги для разметки документа и сделать простую разметку. 
 
-Можно сделать еще несколько упражнений этого же автора с большим количеством деталей: 
-– [basic html](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson01.pdf)
-– [content markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson02.pdf)
-– [scripts and styles](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson03.pdf)
-– [tables](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson04.pdf)
-– [valid markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson06.pdf)
+Можно сделать еще несколько упражнений этого же автора с большим количеством деталей:     
+– [basic html](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson01.pdf)    
+– [content markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson02.pdf)    
+– [scripts and styles](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson03.pdf)    
+– [tables](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson04.pdf)   
+– [valid markup](https://github.com/russmaxdesign/maxdesign-slides/blob/master/01-html/lesson06.pdf)   
 
 3. Сделать семантическую разметку отмеченных блоков макета:
 - Home page (без блока subscribe в footer) - index.html
 - Catalog page (без блока фильтрации слева) - catalog.html
 - Item page - catalog-item.html
 
-Разметка должна быть сделана с помощью с помощью emmet. 
-Нужно учитывать семантичность тегов, их предназначение.
-Всем элементам должны быть заданы классы.
-Перед отправкой на проверку нужно преверить верстку на валидность.
-Файлы с разметкой собрать в архив и приложить в комментарий к своей задаче в Jira.
+Разметка должна быть сделана с помощью с помощью emmet.   
+Нужно учитывать семантичность тегов, их предназначение.   
+Всем элементам должны быть заданы классы.    
+Перед отправкой на проверку нужно преверить верстку на валидность.    
+Файлы с разметкой собрать в архив и приложить в комментарий к своей задаче в Jira.   
 
 ## Дополнительно
 
@@ -43,4 +43,5 @@
 https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui
 https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png
 
-<a href="https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui" rel="some text">![Foo](https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png)</a>
+<a href="https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui" rel="some text">
+<img src="https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png" alt="alt text" title="image Title" /></a>
