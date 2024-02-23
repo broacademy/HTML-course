@@ -45,10 +45,6 @@ https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0
 
 ![image](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
-<img src="https://your-image-url.type" width="100" height="100">
-
-<img src="https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png" width="100" height="100">
+<img src="https://github.com/broacademy/HTML-course/assets/142417980/5618669d-08cd-4f05-90b7-c6c12dd5ad6d" width="100" height="100">
 
 ![alt|500](https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png)
-
-![image](https://github.com/broacademy/HTML-course/assets/142417980/5618669d-08cd-4f05-90b7-c6c12dd5ad6d|width=100)
