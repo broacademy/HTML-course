@@ -51,4 +51,4 @@ https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0
 
 ![alt|500](https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png)
 
-![](https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png|width=10)
+![image](https://github.com/broacademy/HTML-course/assets/142417980/5618669d-08cd-4f05-90b7-c6c12dd5ad6d|width=10)
