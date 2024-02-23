@@ -40,7 +40,3 @@
 Если сделана основная домашняя работа и вам хочется больше практики, то можно сделать разметку примеров ниже. Делаем на codepen или github.
 На следующих занятиях можно будет продолжить работу с этими макетами и заняться стилизацией, но это не обязательно. 
 
-https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui
-https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png
-
-<a href="https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui"><img src="https://github.com/broacademy/HTML-course/assets/142417980/5618669d-08cd-4f05-90b7-c6c12dd5ad6d" width="300"></a>
