@@ -43,4 +43,8 @@
 https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui
 https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![image](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+<img src="https://your-image-url.type" width="100" height="100">
+
+<img src="https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png" width="100" height="100">
