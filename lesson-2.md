@@ -26,3 +26,6 @@ https://ru.hexlet.io/courses/layout-designer-basics главы 1-5, 8-14
 https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui
 
 ![image](https://github.com/broacademy/HTML-course/assets/142417980/5c9b2f82-30db-4def-af0e-0946954c6b8d)
+
+[![An old rock in the desert](https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui
+)](https://github.com/broacademy/HTML-course/assets/142417980/5c9b2f82-30db-4def-af0e-0946954c6b8d)
