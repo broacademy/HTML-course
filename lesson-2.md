@@ -31,4 +31,5 @@ https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0
 
 [![A mushroom-head robot](https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png 'Codey the Codecademy mascot')](https://www.figma.com/community/file/1336720683906150402/mycourses-io-course-website-course-online-course-details-course-landing-page-untitled-ui)
 
+![Alt text](https://s3-alpha.figma.com/hub/file/5112199799/6f838214-a147-4a96-9001-23bd72cd0a31-cover.png)
 
