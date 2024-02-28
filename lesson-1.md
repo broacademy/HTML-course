@@ -1,3 +1,8 @@
+# Материалы 
+
+1. [Презентация](presentations/lesson-1-presentation.pdf)
+2. [Методичка](manuals/lesson-1-manual.pdf)
+
 # Домашняя работа 
 
 1. Скачать [figma](https://www.figma.com/) и создать там аккаунт.
