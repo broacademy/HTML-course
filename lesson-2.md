@@ -1,3 +1,8 @@
+# Материалы 
+
+1. [Презентация](presentations/lesson-2-presentation.pdf)
+2. [Методичка](manuals/lesson-2-manual.pdf)
+
 # Домашняя работа
 
 1. Пройти тренажер по emmet    
