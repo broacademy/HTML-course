@@ -1,3 +1,8 @@
+# Материалы 
+
+1. [Презентация](presentations/lesson-3-presentation.pdf)
+2. [Методичка](manuals/lesson-3-manual.pdf)
+
 # Домашняя работа
 
 ## 1. Сделать fork репозитория на github  
