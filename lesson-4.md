@@ -1,9 +1,9 @@
 # Домашняя работа 
 
 1. Пройти один из курсов, для закрепления теории:       
-[Code basics](https://code-basics.com/ru/languages/css) курс по css, задания 1-22, 33-34 (ru)      
-[Scaler](https://www.scaler.com/topics/css/) 1-3 модуль (eng)    
-[Free code camp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1) (eng)   
+[Code basics](https://code-basics.com/ru/languages/css) задания 1-22, 33-34. Теория + практика, можно посмотреть решения, если что-то не получилось. (ru)      
+[Scaler](https://www.scaler.com/topics/css/) 1-3 модуль. Для прохождения нужно около двух часов, много теории без практики. (eng)    
+[Free code camp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1) Подробный курс, где вы одновременно будете делать разметку и писать к ней стили на примере одного цельного проекта. Проходите, если кроме теории хочется параллельно практиковаться. Первые 10 шагов это только разметка, дальше начинается css.(eng)   
 
 2. Подключить к своему проекту normalize.css отдельным файлом и шрифт с помощью Google fonts.
    
@@ -15,7 +15,8 @@
 Опционально:    
 - Бордеры      
 - Скругление уголов     
-- Отступы        
+- Отступы
+- text-align / letter-spacing / list-style / opacity / text-decoration        
      
 4. [Тест по CSS](https://ru.w3docs.com/quiz/osnovy-css), такой же как был по HTML. Для вашей самопроверки. 
 
@@ -95,7 +96,7 @@
 
 5. **[Справочный указатель по CSS на MDN](https://developer.mozilla.org/ru/docs/Web/CSS/Reference)**: Надежный и авторитетный справочник по CSS от Mozilla Developer Network, включающий свойства, описанные в алфавитном порядке. Ресурс доступен на русском языке (ru).
 
-6. **[Список всех CSS свойств от Николая Шабалина](https://nikolai-shabalin.github.io/css-properties/)**: Еще один полный список CSS свойств, который может служить удобным справочником при верстке (ru).
+6. **[Список всех CSS свойств от Николая Шабалина](https://nikolai-shabalin.github.io/css-properties/)**: Еще один полный список CSS свойств, который может служить удобным справочником при верстке. Автор рассортировал свойства по году и регулярно добавляет туда новые свойства и их статус (ru).
 
 7. **[CSS Guidelines](https://cssguidelin.es/)**: Советы и рекомендации по написанию чистого, устойчивого и легко поддерживаемого CSS кода. Предлагает лучшие практики и стандарты кодирования для профессионалов (eng).
 
