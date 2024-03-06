@@ -1,18 +1,23 @@
 # Домашняя работа 
 
 1. Пройти один из курсов, для закрепления теории:       
-https://code-basics.com/ru/languages/css курс по css, задания 1-22, 33-34       
-https://www.scaler.com/topics/css/ 1-3 модуль     
-https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1 курс по css на английском    
+[Code basics](https://code-basics.com/ru/languages/css) курс по css, задания 1-22, 33-34 (ru)      
+[Scaler](https://www.scaler.com/topics/css/) 1-3 модуль (eng)    
+[Free code camp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1) (eng)   
 
-2. Подключить шрифт к своему проекту
+2. Подключить к своему проекту normalize.css отдельным файлом и шрифт с помощью Google fonts.
    
-3. Написать базовые стили для размеченных блоков макета. Делать это сразу же с помощью emmet 
-- Размер шрифта / Высота строки и другие текстовые параметры     
+3. Написать базовые стили для размеченных блоков макета. Делать это сразу же с помощью emmet. 
+- Размер шрифта / Высота строки / Тип шрифта / Насыщенность шрифта - font-*     
 - Цвет текста    
 - Цвет фона
+  
+Опционально:    
+- Бордеры      
+- Скругление уголов     
+- Отступы        
      
-4. https://ru.w3docs.com/quiz/osnovy-css Тест по CSS, такой же как был по HTML. Для вашей самопроверки 
+4. [Тест по CSS](https://ru.w3docs.com/quiz/osnovy-css), такой же как был по HTML. Для вашей самопроверки. 
 
 # Дополнительные материалы 
 
