@@ -1,7 +1,7 @@
 # Домашняя работа 
 
-1. Пройти один из курсов, для закрепления теории:
-https://code-basics.com/ru/languages/css курс по css, задания 1-22, 33-34     
+1. Пройти один из курсов, для закрепления теории:       
+https://code-basics.com/ru/languages/css курс по css, задания 1-22, 33-34       
 https://www.scaler.com/topics/css/ 1-3 модуль     
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-1 курс по css на английском    
 
